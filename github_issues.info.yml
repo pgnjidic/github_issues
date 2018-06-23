@@ -1,0 +1,11 @@
+name: GitHub Issues
+type: module
+description: "Module to handle GitHub issues"
+# core: 8.x
+dependencies: git_issues
+
+# Information added by Drupal.org packaging script on 2017-10-05
+version: '8.x-1.1'
+core: '8.x'
+project: 'github_issues'
+datestamp: 1507210450
